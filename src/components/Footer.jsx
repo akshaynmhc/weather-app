@@ -12,23 +12,23 @@ function Footer() {
     <>
       <footer className="footer">
         <a
-          href="https://github.com/hicodersofficial/weather-app"
+          href="https://myheartcreative.com"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
         >
-          <i class="fa-brands fa-github"></i> <span>GitHub</span>
+          Built with ❤️ by <span>myheartcreative</span>
         </a>
         <a
-          href="https://github.com/hicodersofficial/weather-app"
+          href="https://github.com/akshaynmhc/weather-app"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
         >
-          <i class="fa-solid fa-code-fork"></i> <span>Fork</span>
+          <i class="fa-solid fa-github"></i> <span>Github</span>
         </a>
         <a
-          href="https://github.com/hicodersofficial/weather-app"
+          href="https://github.com/akshaynmhc/weather-app"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
@@ -36,7 +36,7 @@ function Footer() {
           <i class="fa-solid fa-star"></i> <span>Star</span>
         </a>
         <a
-          href="https://www.instagram.com/p/CfoixJ0vM_P/"
+          href="https://www.instagram.com/myheartcreative/"
           target="_blank"
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
