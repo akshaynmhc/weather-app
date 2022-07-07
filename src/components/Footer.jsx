@@ -25,7 +25,7 @@ function Footer() {
           rel="noreferrer"
           style={isDark ? anchorStyle : null}
         >
-          <i class="fa-solid fa-github"></i> <span>Github</span>
+          <i class="fa-brands fa-github"></i> <span>Github</span>
         </a>
         <a
           href="https://github.com/akshaynmhc/weather-app"
